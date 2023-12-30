@@ -1,0 +1,4 @@
+*.sock
+nginx/rickrmb/
+
+node_modules/
